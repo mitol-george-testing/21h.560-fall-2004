@@ -1,0 +1,37 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Asian History"
+    ],
+    [
+      "Society",
+      "Asian Studies"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "2d857fc2-6120-445e-b9f2-24a18bf63122"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Smashing the Iron Rice Bowl: Chinese East Asia",
+  "course_description": "This subject examines the experiences of ordinary Chinese people as they lived through the tumultuous changes of the nineteenth and twentieth centuries. We look at personal narratives, primary sources, films alongside a textbook to think about how individual and family lives connect with the broader processes of change in modern China. In the readings and discussions, you should focus on how major political events have an impact on the characters' daily lives, and how the decisions they make cause large-scale social transformation.\n",
+  "department_numbers": [
+    "21H",
+    "21G"
+  ],
+  "extra_course_numbers": "21G.191,21G.991",
+  "primary_course_number": "21H.560",
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
